@@ -10,7 +10,7 @@ void main() {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               CircleAvatar(
-                radius: 50,
+                radius: 40,
                 backgroundColor: Colors.blue,
                 child: Text(
                   'AJ',
